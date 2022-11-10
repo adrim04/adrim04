@@ -53,3 +53,4 @@ Me llama mucho la atención el machine learning , en base a esto escogí la carr
 - [Software Boleta de Pago Version 1.0 en Lenguaje Python con Paradigma Estructurado](https://github.com/SIS-111-Introduccion-a-la-Programacion/Software/blob/main/BoletadePago/boletadepago.py)
 - https://github.com/SIS-111-Introduccion-a-la-Programacion/Software/tree/main/Facturacion
 - https://github.com/SIS-111-Introduccion-a-la-Programacion/Software/tree/main/ahorcado
+- https://github.com/SIS-111-Introduccion-a-la-Programacion/PRACTICOS-EXAMENES-RESUELTOS/blob/main/EXAMENES/OCTUBRE/dados.py
