@@ -47,3 +47,9 @@ Estoy inscrita en la carrera de ingeniería de sistemas y en este momento estoy 
 Me llama mucho la atención el machine learning , en base a esto escogí la carrera, haci que espero que esta me de los conocimientos necesarios y preparación adecuada para que en el futuro pueda especializarme en ello. 
 
 ![enter image description here](https://4.bp.blogspot.com/-qGSY7omcNhA/XWSBIpWnTtI/AAAAAAAMpz0/XX3CyZp2yd0wFJCw8nkbKa_7EkBnMEsTQCLcBGAs/s1600/AS0005673_03.gif)
+
+>     Software guiado 
+
+- [Software Boleta de Pago Version 1.0 en Lenguaje Python con Paradigma Estructurado](https://github.com/SIS-111-Introduccion-a-la-Programacion/Software/blob/main/BoletadePago/boletadepago.py)
+- https://github.com/SIS-111-Introduccion-a-la-Programacion/Software/tree/main/Facturacion
+- https://github.com/SIS-111-Introduccion-a-la-Programacion/Software/tree/main/ahorcado
